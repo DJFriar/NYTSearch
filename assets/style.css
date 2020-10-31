@@ -1,0 +1,19 @@
+header {
+    color: white;
+    background-color: #21325A;
+    text-align: center;
+    padding: 40px 0;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.card {
+    margin-top: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+#footerBox {
+    font-size: small;
+    text-align: center;
+}
